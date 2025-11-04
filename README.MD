@@ -1,4 +1,4 @@
-# 📘 Projecte MkDocs Col·laboratiu – DAW2
+# 📘 Projecte MkDocs Col·laboratiu – DAW2 2025-2026
 
 Benvingut/da al projecte **MkDocs Col·laboratiu** 🎓  
 Aquest repositori forma part del mòdul **Desplegament d’Aplicacions Web (DAW2)** del cicle **Desenvolupament d’Aplicacions Web (CFGS)** de l’IES l’Estació d’Ontinyent.
