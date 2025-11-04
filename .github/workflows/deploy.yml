@@ -1,0 +1,34 @@
+name: Desplegar MkDocs a GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout del codi
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: ⚙️ Instal·lar MkDocs i dependències
+        run: pip install mkdocs mkdocs-material
+
+      - name: 🏗️ Compilar el lloc web
+        run: mkdocs build --strict
+
+      - name: 🚀 Desplegar a GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
