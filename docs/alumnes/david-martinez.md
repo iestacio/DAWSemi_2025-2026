@@ -9,7 +9,7 @@ M’interessa especialment el desenvolupament **fullstack** i les tecnologies re
 ## 🚀 Projecte personal
 **Nom del projecte:** *Replay*  
 **Descripció:**  
-Replay és una pàgina de compraventa de productes de 2a mà, on es venen consoles, videojocs i merxandising. 
+Replay és una pàgina de compravenda de productes de 2a mà, on es venen consoles, videojocs i merxandising. 
 El frontend estarà escrit en **React**, i el backend consistirà en un servidor express amb **Node.js**.
 
 ---
@@ -35,8 +35,8 @@ El frontend estarà escrit en **React**, i el backend consistirà en un servidor
 
 ## 🔗 Enllaços d’interés
 - [El meu perfil de GitHub](https://github.com/JKTrick75)
-- [Repositori projecte personal (FRONTEND) - En obras](https://usagif.com/wp-content/uploads/gifs/monkey-105.gif)
-- [Repositori projecte personal (BACKEND) - En obras](https://usagif.com/wp-content/uploads/gifs/monkey-105.gif)
+- [Repositori projecte personal (FRONTEND) - En obres](https://usagif.com/wp-content/uploads/gifs/monkey-105.gif)
+- [Repositori projecte personal (BACKEND) - En obres](https://usagif.com/wp-content/uploads/gifs/monkey-105.gif)
 <!-- - [Pàgina web desplegada (si la tens)](https://JKTrick75.github.io/projecte) -->
 
 ---
@@ -48,4 +48,4 @@ El frontend estarà escrit en **React**, i el backend consistirà en un servidor
 
 ## 🖼️ Foto o logotip
 
-![Foto de David Martinez](img/david-martinez.gif)
+![Foto de David Martínez](img/david-martinez.gif)
