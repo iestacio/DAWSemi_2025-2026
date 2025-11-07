@@ -1,0 +1,11 @@
+# Alumne
+
+## Mari Paz Sanz Nadal
+
+**Correu**: maripazsanznadal@gmail.com
+
+**Mòdul**: Desplegament d'Apliacions Web
+
+**Grau** **Superior**: Desenvolupament d'Apliacions Web
+
+**Curs**: 2025-2026
