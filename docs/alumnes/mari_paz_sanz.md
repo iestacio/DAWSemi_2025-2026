@@ -40,7 +40,8 @@ Exemple:
 ---
 
 ## 💬 Frase o curiositat
-> "Poc a poc tot va eixint avant"
+> "Poc a poc tot va eixint avant" 
+
 > "Treballar amb música es treballar amb alegria"
 
 
