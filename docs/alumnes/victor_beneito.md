@@ -1,4 +1,4 @@
-# Alumne: Victor Beneito LLuch
+# Victor Beneito LLuch
 
 ## Presentació
 Soc alumne del curs de 2ón **Desenvolupament d'Aplicacions Webs (DAW)** en l'Institut l'Estació d'Ontinyent.
@@ -20,4 +20,4 @@ El frontend es farà en *React*, *Vite* i *Tailwindcss* i el backend en *Node.js
 "No ens fareu castellans"
 
 ## Logotip tenda
-img/logo-hogar.jpg
+[img/logo-hogar.jpg] Logotip de la tenda que vaig a fer
