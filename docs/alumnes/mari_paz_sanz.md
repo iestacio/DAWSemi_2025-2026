@@ -2,7 +2,7 @@
 
 ## 💻 Presentació
 Sóc estudiant del cicle **Desenvolupament d’Aplicacions Web** a l’IES l’Estació d’Ontinyent.  
-M’interessa especialment el desenvolupament **frontend/backend** i les tecnologies relacionades amb **HTML, CSS, JavaScript, Python, java**.
+M’interessa especialment el desenvolupament **frontend/backend** i les tecnologies relacionades amb **HTML, CSS, JavaScript, Python, java, altres llenguatges.**.
 
 ---
 
@@ -48,9 +48,6 @@ Exemple:
 
 ## 🖼️ Foto o logotip
 
-Pots afegir una imatge dins `docs/alumnes/img/logo_mosaik_peça.jpg` i mostrar-la així:
+![Logotip Mosaik](img/logo_mosaik_peça.gif)
 
-```markdown
-![Logotip Mosaik](img/logo_mosaik_peça.jpg)
-```
 
