@@ -1,34 +1,49 @@
-## Sobre mí  
-¡Hola! Soy **Michael**, desarrollador web centrado en crear aplicaciones modernas y escalables. Actualmente estoy trabajando en el proyecto _El Buey Madurado_, donde combino diseño y desarrollo web para ofrecer una experiencia digital atractiva para los usuarios.
+# 👤 Michael Llorens
 
-## Mi rol en El Buey Madurado  
-En este proyecto me encargo de los aspectos tecnológicos y digitales, tales como:  
-- Desarrollar la web del restaurante utilizando React y Tailwind, asegurando que sea rápida, responsive y fácil de usar.  
-- Gestionar la integración de contenidos (menú, contacto, imágenes) para que la experiencia de usuario refleje la calidad del proyecto.  
-- Configurar la comunicación con la base de datos y el backend para que los datos se gestionen correctamente y la aplicación sea escalable.
+## 💻 Presentació  
+Sóc estudiant del cicle de **Desenvolupament d’Aplicacions Multiplataforma** i actualment estic treballant en el meu projecte personal **El Buey Madurado**, on combine desenvolupament web modern amb una experiència digital atractiva per als usuaris.
 
-## Tecnologías que uso  
-- **Front-end:** React, Tailwind CSS, HTML, CSS, JavaScript  
-- **Back-end:** Node.js  
-- **Base de datos:** MongoDB  
-- Control de versiones y colaboración: GitHub / Git  
+---
 
-## Curiosidad
-Me encanta experimentar con la tecnología para mejorar la experiencia de usuario y combinarla con la gastronomía, buscando siempre que la web refleje la esencia del proyecto.
+## 🚀 Projecte personal  
+**Nom del projecte:** *El Buey Madurado*  
+**Descripció:**  
+El Buey Madurado és una plataforma web creada per a un negoci gastronòmic especialitzat en carn madurada.  
+El projecte està desenvolupat amb **React**, **Tailwind**, **Node.js** i **MongoDB**, buscant una experiència moderna, visual i fàcil d'utilitzar.
 
-## Mis objetivos  
-- Profundizar en el desarrollo fullstack de aplicaciones web modernas.  
-- Mejorar mis habilidades en colaboración y flujo de trabajo profesional mediante GitHub y PRs.  
-- Ampliar mi portafolio con proyectos reales y escalables que combinen frontend, backend y bases de datos.
+---
 
-## Contacto  
-- Correo: michael@example.com  
-- GitHub personal: [github.com/Michael-Llorens](https://github.com/Michael-Llorens)  
-- Repositorio del proyecto: [El Buey Madurado](https://github.com/Michael-Llorens/el-buey-madurado)  
-- LinkedIn: [linkedin.com/in/TU_PERFIL](https://linkedin.com/in/TU_PERFIL)
+## 🧰 Tecnologies i eines que utilitze  
+- React
+- Tailwind CSS 
+- HTML i CSS  
+- JavaScript  
+- Node.js 
+- MongoDB 
+- Git i GitHub
+- MkDocs
 
-## Foto o logotipo
-![Logotipo El Buey Madurado](https://github.com/Michael-Llorens/el-buey-madurado/blob/main/buey-madurado-frontend/src/assets/images/logo.svg)  
+---
 
-## Frase o curiositat
-*"No hablamos de comida rápida… hablamos de alta cocina a domicilio."*
+## 🌱 Objectius d’aprenentatge  
+1. Profunditzar en el desenvolupament fullstack utilitzant tecnologies modernes.  
+2. Millorar el flux de treball professional utilitzant brancs, commits i Pull Requests.  
+3. Aprendre bones pràctiques en desplegament i documentació tècnica.  
+4. Crear un projecte complet i escalable per afegir al portafoli.
+
+---
+
+## 🔗 Enllaços d’interés  
+- [Perfil de GitHub](https://github.com/Michael-Llorens)  
+- [Repositori del projecte El Buey Madurado](https://github.com/Michael-Llorens/el-buey-madurado)  
+<!-- - [Pàgina web desplegada (si aplica)]() -->
+
+---
+
+## 💬 Frase o curiositat  
+> "No hablamos de comida rápida… hablamos de alta cocina a domicilio."
+
+---
+
+## 🖼️ Foto o logotip  
+![Logotip El Buey Madurado](img/logo-michael.jpeg)
