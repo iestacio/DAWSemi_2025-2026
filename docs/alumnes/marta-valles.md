@@ -1,4 +1,4 @@
-# 👤 Nom Cognom
+# 👤 Marta Vallés
 
 ## 💻 Presentació
 Sóc estudiant del cicle **Desenvolupament d’Aplicacions Web** a l’IES l’Estació d’Ontinyent.  
