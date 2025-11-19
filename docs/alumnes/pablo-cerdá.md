@@ -1,54 +1,47 @@
 # 👤 Pablo Cerdá
 
-## 💻 Presentació
-Sóc estudiant del cicle **Desenvolupament d’Aplicacions Web** a l’IES l’Estació d’Ontinyent.  
-M’interessa especialment el desenvolupament **{{frontend/backend/fullstack}}** i les tecnologies relacionades amb **{{HTML, CSS, JavaScript, Python, etc.}}**.
+## 💻 Presentació  
+Sóc estudiant del cicle de **Desenvolupament d’Aplicacions Web**.
 
 ---
 
-## 🚀 Projecte personal
-**Nom del projecte:** *{{Títol del projecte}}*  
+## 🚀 Projecte personal  
+**Nom del projecte:** *Motivem*  
 **Descripció:**  
-{{Explica breument en què consisteix el teu projecte, quina tecnologia utilitza i quin és l’objectiu.}}
-
-Exemple:
-> Una aplicació web per gestionar tasques utilitzant Flask i SQLite, amb interfície responsive i autenticació bàsica.
+Motivem és una plataforma web creada per a un negoci de psicologia.
+El projecte està desenvolupat amb **React**, **Tailwind**, **Node.js** i **MongoDB**.
 
 ---
 
-## 🧰 Tecnologies i eines que utilitze
-- HTML, CSS, JavaScript  
-- Python / Flask  
-- Git i GitHub  
-- MkDocs  
-- Docker *(opcional)*
+## 🧰 Tecnologies i eines que utilitze  
+- React
+- Tailwind CSS 
+- HTML i CSS  
+- JavaScript  
+- Node.js 
+- MongoDB 
+- Git i GitHub
+- MkDocs
 
 ---
 
-## 🌱 Objectius d’aprenentatge
-1. Millorar en l’ús de Git i GitHub (branques, commits, PR).
-2. Aprendre bones pràctiques de desplegament web.
-3. Publicar documentació tècnica clara amb MkDocs.
+## 🌱 Objectius d’aprenentatge  
+1. Profunditzar en el desenvolupament fullstack utilitzant tecnologies modernes.  
+2. Millorar el flux de treball professional utilitzant brancs, commits i Pull Requests. 
 
 ---
 
-## 🔗 Enllaços d’interés
-- [El meu perfil de GitHub](https://github.com/pablocd8)
-- [Projecte personal al repositori](https://github.com/nomusuari/projecte)
-- [Pàgina web desplegada (si la tens)](https://nomusuari.github.io/projecte)
+## 🔗 Enllaços d’interés  
+- [Perfil de GitHub](https://github.com/pablocd8)  
+
+<!-- - [Pàgina web desplegada (si aplica)]() -->
 
 ---
 
-## 💬 Frase o curiositat
-> "{{Una frase que et represente}}"  
-> Exemple: “El millor codi és el que no cal explicar.”
+## 💬 Frase o curiositat  
+> "Si ya estas aqui es un gran paso"
 
 ---
 
-## 🖼️ (Opcional) Foto o logotip
-
-Pots afegir una imatge dins `docs/alumnes/img/nom-cognom.jpg` i mostrar-la així:
-
-```markdown
-![Foto de Nom Cognom](img/nom-cognom.jpg)
-```
+## 🖼️ Foto o logotip  
+![Logotip El Buey Madurado](img/pablo-cerdá.png)
